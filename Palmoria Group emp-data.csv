@@ -1,0 +1,18 @@
+1,,,,,,,
+Count of Department,Column Labels,,,,,,
+Row Labels,Abuja,Kaduna,Lagos,Grand Total,,,
+Female,161,171,120,452,,,
+Male,164,185,130,479,,,
+(blank),19,14,8,41,,,
+Grand Total,344,370,258,972,,,
+,,,,,,,
+,,,,,,,
+2,,,,,,,
+Count of Rating,Column Labels,,,,,,
+Row Labels,Average,Good,Not Rated,Poor,Very Good,Very Poor,Grand Total
+Female,197,90,38,58,49,20,452
+Male,221,83,35,72,37,31,479
+(blank),19,9,2,3,5,3,41
+Grand Total,437,182,75,133,91,54,972
+,,,,,,,
+3,,,,,,,
